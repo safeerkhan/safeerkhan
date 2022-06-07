@@ -1,0 +1,48 @@
+<html>
+	<head>
+		<title> Card Check </title>
+	</head>
+	
+	<body>
+		<p>Card Check </p>
+
+
+
+
+<script>
+var num= window. prompt("Enter your card first 4 numbers: ");
+checkCard(num);
+
+
+function cardCheck(num){
+
+if(num == 23 || 24 || 25 || 26 || 27 || 51 || 55 || 53 || 54 || 55){
+console.log("Master Card");
+}
+else if(num == 51 || 52 || 53 || 54 || 55){
+console.log("VISA Card");
+}
+else if(num == 34 || 37){
+console.log("American Express");
+}
+else if(num == 35){
+console.log("JCB");
+}
+else if(num == 36 || 38){
+console.log("Diner Club");
+}
+else if(num == 56 || 58 || 63 || 66 || 67){
+console.log("Maestro Card");
+}
+else if (num==65){
+console.log("Discover");
+}
+else{
+console.log("Invalid Card");
+}
+
+} \\ Function Close
+</script>
+
+	</body>
+</html>
