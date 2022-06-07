@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @safeerkhan
-- 👀 I’m interested in Web Techonolgy
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on python autobot 
+- 👀 I’m interested in Flutter and Automation Testing
+- 🌱 I’m currently Flutter
 - 📫 How to reach me here!!
 
 <!---
