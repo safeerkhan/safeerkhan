@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @safeerkhan
 - 👀 I’m interested in Flutter and Automation Testing
-- 🌱 I’m currently Flutter
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me here!!
 
 <!---
